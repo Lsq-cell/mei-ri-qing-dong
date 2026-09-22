@@ -128,7 +128,7 @@ JSON Schema:
   }
 
   app.listen(PORT, "0.0.0.0", () => {
-    console.log(`[小摩放松] Full-stack Server live on http://0.0.0.0:${PORT}`);
+    console.log(`[每日轻动] Full-stack Server live on http://0.0.0.0:${PORT}`);
   });
 }
 

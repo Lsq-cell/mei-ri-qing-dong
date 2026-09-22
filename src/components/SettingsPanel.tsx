@@ -113,7 +113,7 @@ export const SettingsPanel: React.FC = () => {
 
       {/* App details watermark */}
       <div className="text-center mt-12 mb-12 space-y-1">
-        <p className="text-[10px] text-slate-600 font-mono">小摩放松 iOS Ver 3.10.4</p>
+        <p className="text-[10px] text-slate-600 font-mono">每日轻动 iOS Ver 3.10.4</p>
         <p className="text-[10px] text-slate-700 font-mono">Build with Gemini Kinesiology algorithms</p>
       </div>
     </div>
